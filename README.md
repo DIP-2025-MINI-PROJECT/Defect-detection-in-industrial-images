@@ -42,7 +42,7 @@ https://github.com/SimonThomine/IndustrialTextileDataset
 3. https://www.geeksforgeeks.org/erosion-dilation-image-processing-python-opencv
    
 ### Limitations and Future Work:
-Limitations
+Limitations-
 
 1. The method is sensitive to lighting variations and may produce noise on unevenly illuminated fabric images.
 2. Highly patterned or textured fabrics can cause false positives due to naturally high variance regions.
