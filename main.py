@@ -3,15 +3,15 @@ import numpy as np
 import os
 from pathlib import Path
 
-# paths (change if needed)
+
 INPUT_FOLDER = r"C:\Users\Admin\Desktop\image-pro-final\images"
 OUTPUT_FOLDER = r"C:\Users\Admin\Desktop\image-pro-final\output" 
 
 
-# make output dir if not there
+
 Path(OUTPUT_FOLDER).mkdir(parents=True, exist_ok=True)
 
-# some params (tweak if results bad)
+
 WIN_SIZE = 21
 THRESH = 20
 MIN_AREA = 10   # min blob size

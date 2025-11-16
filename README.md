@@ -3,7 +3,7 @@ Defect detection in industrial images
 
 ### Project Description:
 
-This project detects defects in fabric and textile images using a classical image-processing pipeline. Local variance highlights irregularities in the weave pattern, followed by morphological filtering to refine defect regions. Connected components are then used to isolate and mark defects such as holes, stains, broken yarns, and misweaves.
+This project uses OpenCV to detect defects in fabric and textile images through a classical image-processing pipeline. Local variance highlights irregularities in the weave pattern, morphological filtering refines the defect regions, and connected components are used to isolate and mark defects such as holes, stains, broken yarns, and misweaves.
 
 #### Summary - 
 
